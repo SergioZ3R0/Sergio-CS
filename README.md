@@ -2,7 +2,6 @@
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Cyber Security
 - 💞️ I’m looking to collaborate on Scripts and utilities of pentesting
-- 📫 How to reach me sergio.scs388@gmail.com
 
 <!---
 Sergio-CS/Sergio-CS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
